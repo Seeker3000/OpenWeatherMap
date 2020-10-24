@@ -1,5 +1,5 @@
 # OpenWeatherMap
-![pic](https://upload.wikimedia.org/wikipedia/commons/e/ee/ShipTracks_MODIS_2005may11.jpg)
+![pic](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/ShipTracks_MODIS_2005may11.jpg/275px-ShipTracks_MODIS_2005may11.jpg)
 
 # Description
 Program: Python_open_weather_map_API.py
