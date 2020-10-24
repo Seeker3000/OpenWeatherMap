@@ -1,8 +1,9 @@
 # OpenWeatherMap
-![pic](https://en.wikipedia.org/wiki/Atmospheric_science#/media/File:ShipTracks_MODIS_2005may11.jpg)
+![pic](https://upload.wikimedia.org/wikipedia/commons/e/ee/ShipTracks_MODIS_2005may11.jpg)
 
 # Description
 Program: Python_open_weather_map_API.py
+
 Author: D. Damian
 
 This program will use OpenWeatherMap One Call API and obtain the weather data for a city of your choice.
